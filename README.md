@@ -1,7 +1,7 @@
 # PengalamanBelajarKu
 
 <p>14 Juni 2021  
-Belajar ke          las Memulai Pemrograman dengan Java. (Progres 21%)<p/>
+Belajar ke<br>las Memulai Pemrograman dengan Java. (Progres 21%)<p/>
 
 * Belajar tentang apa itu Java dan alasan menggunakannya.
 
